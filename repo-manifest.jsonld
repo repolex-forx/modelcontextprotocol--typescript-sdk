@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/modelcontextprotocol/typescript-sdk/commit/1e608caeb5130b2ad0fa067c84b26a038c1c6e36",
       "git:hexsha": "1e608caeb5130b2ad0fa067c84b26a038c1c6e36",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-10T02:53:06.616917+00:00"
     },
     {
       "@id": "https://repolex.ai/r/modelcontextprotocol/typescript-sdk/commit/00bcd2c4e6a54018c51e25e55d6cab988620157b",
